@@ -29,7 +29,7 @@
             <select id="book_id" name="book_id" class="mt-1 block w-full" required>
                 <option value="">Pilih Barang</option>
                 @foreach ($buku as $book)
-                    <option value="{{ $book->id }}">{{ $book->nama_barang }}</option>
+                    <option value="{{ $book->id }}">{{ $book->nama_buku }}</option>
                 @endforeach
             </select>
             @error('book_id')
