@@ -1,4 +1,4 @@
-# Aplikasi Pengelolaan Perpustakaan Sekolah Berbasis Laravel 10
+
 
 ## Instalasi Tools (Localhost)
 
